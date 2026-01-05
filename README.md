@@ -7,7 +7,7 @@ This repository contains data analysis projects that showcase real-world busines
 
 ## 🧑‍💼 About Me
 
-Hi! I’m **Ashlesha Gautam** — a data enthusiast and aspiring data analyst.  
+Hi! I’m **Ashlesha Gautam**  a data enthusiast and aspiring buisness analyst.  
 In this portfolio, I demonstrate my skills in data cleaning, exploratory analysis, visualization, and deriving business-relevant insights.
 
 ---
@@ -38,14 +38,8 @@ This portfolio demonstrates:
 - Notebook documentation and presentation
 
 **Technologies Used:**  
-Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Seaborn
+Python | Jupyter Notebook | Pandas | NumPy | Matplotlib
 
 ---
 
-## 📦 How to Explore
 
-To view or run these notebooks locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ashlesha1704/Data---Business--Analysis-Portfolio.git
